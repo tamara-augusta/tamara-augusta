@@ -5,7 +5,7 @@
 
 👨🏻‍🎓 Desenvolvedora FullStack 
 
-🌱 Aprendendo Web | Programadora | Full Stack | JAVA | Banco de dados | JAVASCRIPT | HTML | CSS | MYSQL 
+🌱 Aprendendo Web | JAVA | Banco de dados | JAVASCRIPT | HTML | CSS | MYSQL 
 
 😄 Pronomes: ela/dela
 
